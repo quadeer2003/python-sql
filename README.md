@@ -3,7 +3,8 @@
 
 ### A python-cli to manage employee db
 
-![image](https://github.com/user-attachments/assets/a25d872f-7b7e-4b51-b0ef-cd6a6a853037)
+![image](https://github.com/user-attachments/assets/b91cf6ef-2ac9-427f-b15f-ab1a1f619ff5)
+
 
 ![image](https://github.com/user-attachments/assets/5d755601-bfec-43e3-bffb-d5e498b18322)
 
