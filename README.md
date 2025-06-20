@@ -1,12 +1,14 @@
 # python-sql
 
 
-### A python-cli to manage employee db
+### A python-cli to manage employee db in MariaDB
 
 ![image](https://github.com/user-attachments/assets/b91cf6ef-2ac9-427f-b15f-ab1a1f619ff5)
 
 
-![image](https://github.com/user-attachments/assets/5d755601-bfec-43e3-bffb-d5e498b18322)
+
+![image](https://github.com/user-attachments/assets/1c916451-738a-4024-8ee5-838e4ab69309)
+
 
 
 ### Fetching data from meta graph api
